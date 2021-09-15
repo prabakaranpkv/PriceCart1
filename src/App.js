@@ -24,13 +24,13 @@ function App() {
           </Col>
         </Row>
         <Row className="row2">
-          <Col>
+          <Col sm={4}>
             <Card1 />
           </Col>
-          <Col>
+          <Col sm={4}>
             <Card2 />
           </Col>
-          <Col>
+          <Col sm={4}>
             <Card3 />
           </Col>
         </Row>
